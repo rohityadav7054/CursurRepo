@@ -1,0 +1,16 @@
+/workspace/src/main/java/com/example/authapp/repository/UserRepository.java
+/workspace/src/main/java/com/example/authapp/controller/AuthController.java
+/workspace/src/main/java/com/example/authapp/security/jwt/AuthEntryPointJwt.java
+/workspace/src/main/java/com/example/authapp/security/services/UserDetailsServiceImpl.java
+/workspace/src/main/java/com/example/authapp/dto/MessageResponse.java
+/workspace/src/main/java/com/example/authapp/security/services/UserPrincipal.java
+/workspace/src/main/java/com/example/authapp/AuthAppApplication.java
+/workspace/src/main/java/com/example/authapp/security/jwt/AuthTokenFilter.java
+/workspace/src/main/java/com/example/authapp/security/jwt/JwtUtils.java
+/workspace/src/main/java/com/example/authapp/dto/LoginRequest.java
+/workspace/src/main/java/com/example/authapp/dto/SignupRequest.java
+/workspace/src/main/java/com/example/authapp/dto/JwtResponse.java
+/workspace/src/main/java/com/example/authapp/security/WebSecurityConfig.java
+/workspace/src/main/java/com/example/authapp/model/User.java
+/workspace/src/main/java/com/example/authapp/model/Role.java
+/workspace/src/main/java/com/example/authapp/controller/TestController.java

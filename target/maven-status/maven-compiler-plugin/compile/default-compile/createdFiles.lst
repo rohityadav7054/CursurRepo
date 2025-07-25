@@ -1,0 +1,16 @@
+com/example/authapp/dto/MessageResponse.class
+com/example/authapp/repository/UserRepository.class
+com/example/authapp/controller/TestController.class
+com/example/authapp/dto/LoginRequest.class
+com/example/authapp/model/User.class
+com/example/authapp/security/services/UserDetailsServiceImpl.class
+com/example/authapp/security/WebSecurityConfig.class
+com/example/authapp/security/jwt/AuthEntryPointJwt.class
+com/example/authapp/security/jwt/AuthTokenFilter.class
+com/example/authapp/security/jwt/JwtUtils.class
+com/example/authapp/dto/SignupRequest.class
+com/example/authapp/model/Role.class
+com/example/authapp/dto/JwtResponse.class
+com/example/authapp/controller/AuthController.class
+com/example/authapp/security/services/UserPrincipal.class
+com/example/authapp/AuthAppApplication.class
